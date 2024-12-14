@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvir</h1>
+
 - 🔭 I’m currently working on [Lineup](https://github.com/levaaaay/Lineup)
 
 - 📫 How to reach me **alvirgonzales16@gmail.com**
